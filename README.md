@@ -1,7 +1,7 @@
 # pink october-vnw
 
 (pt-br)
-Projeto de Conscientização Outubro Rosa 🎗️
+Projeto de Conscientização: Outubro Rosa 🎗️
 
 Este projeto é uma página web projetada para incentivar a conscientização sobre a campanha 'Outubro Rosa', uma iniciativa global focada na detecção precoce e prevenção do câncer de mama. A página fornece informações sobre a importância do diagnóstico precoce e dicas de como manter um estilo de vida mais saudável.
 
