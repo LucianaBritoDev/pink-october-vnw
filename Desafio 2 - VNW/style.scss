@@ -99,3 +99,53 @@ footer {
     color: #e4eef1;
   }
 }
+
+
+@media (max-width: 768px) {
+  header {
+    height: 20vh;
+    flex-direction: column;
+
+    nav {
+      width: 95% ul {
+        al {
+          font-size: 22px;
+        }
+      }
+    }
+  }
+}
+
+.sessaoAlerta {
+  height: 80vh;
+  flex-direction: column-reverse;
+
+  p {
+    width: 90%;
+    font-size: 22px;
+    text-align: center;
+  }
+  img {
+    width: 40%;
+  }
+}
+
+.sessaoCorrida {
+  height: 80vh;
+  flex-direction: column;
+
+  p {
+    width: 90%;
+    font-size: 22px;
+    text-align: center;
+  }
+}
+
+.imagensdeConscientizacao {
+  flex-direction: column;
+  height: 70vh;
+
+  img {
+    height: 15vh;
+  }
+}
